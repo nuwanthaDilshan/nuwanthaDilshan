@@ -56,8 +56,7 @@
 <h3 align="center">Languages And Tools:</h3><br>
 
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" alt="icon">
-</p>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a></p>
 
 <br>
 <hr>
