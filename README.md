@@ -10,10 +10,10 @@
 <td width="60%" align="left">
   
   - 🧑‍🎓 I’m an Undergraduate at **ICBT**<br>
-  - 🔭 I’m currently working on **React Project**<br>
-  - 🌱 I’m currently learning **React, Angular, Vue JS, Next JS, etc**<br>
+  - 🔭 I’m currently working on **MERN Stack Project**<br>
+  - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, ExpressJS, etc**<br>
   - 👨‍💻 All of my projects are available at [https://github.com/nuwanthaDilshan](https://github.com/nuwanthaDilshan)<br>
-  - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, PHP, SQL, WordPress, etc.**<br>
+  - 💬 Ask me about **ReactJS, JS, MongoDB, ExpressJS, NodeJS, HTML, CSS, Bootstrap etc.**<br>
   - 📫 How to reach me: **nuwanthadilshan56@gmail.com**<br>
   - ⚡ Fun fact: **I think I am Funny**<br>
 </td>
@@ -81,7 +81,7 @@
 
 <h3 align="center">Support:</h3>
 
-<p align="center"><a href="https://buymeacoffee.com/chulanivimukthi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
