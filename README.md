@@ -14,7 +14,7 @@
   - 🌱 I’m currently learning **React, Angular, Vue JS, Next JS, etc**<br>
   - 👨‍💻 All of my projects are available at [https://github.com/nuwanthaDilshan](https://github.com/nuwanthaDilshan)<br>
   - 💬 Ask me about **HTML, CSS, SASS, Bootstrap, PHP, SQL, WordPress, etc.**<br>
-  - 📫 How to reach me: **vimukthichulani@gmail.com**<br>
+  - 📫 How to reach me: **nuwanthadilshan56@gmail.com**<br>
   - ⚡ Fun fact: **I think I am Funny**<br>
 </td>
 <td width="40%" align="left">
