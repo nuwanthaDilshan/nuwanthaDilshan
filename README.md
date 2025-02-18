@@ -68,10 +68,10 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="laravel" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/html-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css" width="50" height="50"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a></p>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a>
    <a href="https://www.geeksforgeeks.org/git-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/introduction-to-github/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="50" height="50"/> </a>
-
+</p>
 <br>
 <hr>
 <br>
