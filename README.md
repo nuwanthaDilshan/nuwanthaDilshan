@@ -61,7 +61,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="50" height="50"/> </a>
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/mongodb-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="py" width="50" height="50"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="py" width="50" height="50"/> </a><br/>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/php-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php&theme=light" alt="php" width="50" height="50"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="laravel" width="50" height="50"/> </a>
