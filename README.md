@@ -9,7 +9,7 @@
 <tr>
 <td width="60%" align="left">
   
-  - 🧑‍🎓 I’m an Undergraduate at **ICBT**<br>
+  - 🧑‍🎓 I’m graduate at **Cardiff Metropolitan University**<br>
   - 🔭 I’m currently working on **MERN Stack Project**<br>
   - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, ExpressJS, etc**<br>
   - 👨‍💻 All of my projects are available at [https://github.com/nuwanthaDilshan](https://github.com/nuwanthaDilshan)<br>
