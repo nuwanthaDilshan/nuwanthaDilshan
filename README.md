@@ -13,7 +13,7 @@
   - 🔭 I’m currently working on **MERN Stack Project**<br>
   - 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB, ExpressJS, etc**<br>
   - 👨‍💻 All of my projects are available at [https://github.com/nuwanthaDilshan](https://github.com/nuwanthaDilshan)<br>
-  - 💬 Ask me about **ReactJS, JS, MongoDB, ExpressJS, NodeJS, HTML, CSS, Bootstrap etc.**<br>
+  - 💬 Ask me about **ReactJS, JS, MongoDB, ExpressJS, NodeJS, TailwindCSS etc.**<br>
   - 📫 How to reach me: **nuwanthadilshan56@gmail.com**<br>
   - ⚡ Fun fact: **I think I am Funny**<br>
 </td>
@@ -61,8 +61,9 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="50" height="50"/> </a>
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/mongodb-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="py" width="50" height="50"/> </a><br/>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" width="50" height="50"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="py" width="50" height="50"/> </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" width="50" height="50"/> </a><br/>
+  <a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/php-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php&theme=light" alt="php" width="50" height="50"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="laravel" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/html-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="50" height="50"/> </a>
