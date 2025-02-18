@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/nuwanthaDilshan/nuwanthaDilshan/main/img/banner.png" alt="banner"/></p>
+<p align="center"><img src="https://github.com/nuwanthaDilshan/nuwanthaDilshan/blob/main/img/banner.png" alt="banner"/></p>
 <br>
 <h1 align="center">Hi 👋, I'm Nuwantha Dilshan Subasinghe</h1>
 <h3 align="center">I'm a graduate Student & A Passionate Full-Stack Web Developer</h3><br>
