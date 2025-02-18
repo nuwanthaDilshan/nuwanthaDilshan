@@ -56,6 +56,19 @@
 <h3 align="center">Languages And Tools:</h3><br>
 
 <p align="center"> 
+  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js&theme=light" alt="js" width="50" height="50"/> </a>
+  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="50" height="50"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="50" height="50"/> </a>
+  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/mongodb-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="mongodb" width="50" height="50"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py&theme=light" alt="py" width="50" height="50"/> </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="flask" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/php-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php&theme=light" alt="php" width="50" height="50"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel&theme=light" alt="laravel" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/html-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/css-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/git-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="50" height="50"/> </a>
+  <a href="https://www.geeksforgeeks.org/introduction-to-github/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="50" height="50"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a></p>
 
 <br>
