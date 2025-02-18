@@ -18,7 +18,7 @@
   - ⚡ Fun fact: **I think I am Funny**<br>
 </td>
 <td width="40%" align="left">
-  <img src="https://raw.githubusercontent.com/nuwanthaDilshan/nuwanthaDilshan/main/img/content-img.jpg"/>
+  <img src="https://github.com/nuwanthaDilshan/nuwanthaDilshan/blob/main/img/content-img.jpg"/>
 </td>
 </tr>
 </table>
