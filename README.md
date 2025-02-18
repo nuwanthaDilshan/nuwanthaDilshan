@@ -47,9 +47,7 @@
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" height="50" width="50" /></a> 
-<a href="https://kaggle.com/chulanivimukthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chulanivimukthi" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/chulanivimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chulani518" height="50" width="50" /></a> 
+<a href="www.linkedin.com/in/nuwantha-dilshan-subasinghe-6bbb08289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulani-vimukthi-b8374723b/" height="50" width="50" /></a>
 </p>
 
 <br>
