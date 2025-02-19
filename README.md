@@ -76,8 +76,6 @@
 <hr>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwanthaDilshan" /></a> </p><br>
-
 <hr>
 
 <h3 align="center">Support:</h3>
