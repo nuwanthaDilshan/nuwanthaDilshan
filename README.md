@@ -47,7 +47,7 @@
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
-<a href="[www.linkedin.com/in/nuwantha-dilshan-subasinghe-6bbb08289](https://www.linkedin.com/in/nuwantha-dilshan-subasinghe-6bbb08289/)" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="mongodb" width="50" height="50"/></a>
+<a href="(https://www.linkedin.com/in/nuwantha-dilshan-subasinghe-6bbb08289/)" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="mongodb" width="50" height="50"/></a>
 </p>
 
 <br>
