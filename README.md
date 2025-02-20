@@ -20,11 +20,13 @@
 <td width="40%" align="left">
   <img src="https://github.com/nuwanthaDilshan/nuwanthaDilshan/blob/main/img/content-img.jpg"/>
 </td>
+
 </tr>
 </table>
 
 <br>
 <hr>
+
 <h3 align="center">My Statistics:</h3><br>
 
 <p align="center">
@@ -33,7 +35,10 @@
 <tr>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuwanthaDilshan&theme=monokai&show_icons=true&count_private=true" />
-<br></br> 
+  
+<br>
+</br> 
+
 </td>
 
 <td width="50%" align="center">
@@ -72,9 +77,9 @@
    <a href="https://www.geeksforgeeks.org/git-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/introduction-to-github/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="50" height="50"/> </a>
 </p>
-<br>
-<br>
 
+<br>
+<br>
 <hr>
 
 <h3 align="center">Support:</h3>
