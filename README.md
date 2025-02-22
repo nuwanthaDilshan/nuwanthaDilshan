@@ -76,6 +76,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="bootstrap" width="50" height="50"/> </a>
    <a href="https://www.geeksforgeeks.org/git-tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git&theme=light" alt="git" width="50" height="50"/> </a>
   <a href="https://www.geeksforgeeks.org/introduction-to-github/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github&theme=light" alt="github" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma&theme=light" alt="github" width="50" height="50"/> </a>
 </p>
 
 <br>
